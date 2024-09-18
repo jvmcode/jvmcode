@@ -1,8 +1,6 @@
 
 ## Olá! Eu sou o João Maia! 👋📚🙌🙌
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2213cb23-52d7-459e-a2af-afcca22f4b3b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joaovmoliveira)
 
 ![João GitHub stats](https://github-readme-stats.vercel.app/api?username=jvmcode&show_icons=true&theme=onedark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvmcode&layout=donut)
