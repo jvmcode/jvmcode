@@ -1,7 +1,7 @@
 
 ## Olá! Eu sou o João Maia! 👋📚🙌🙌
 
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joaovmoliveira)
+
 
 ![João GitHub stats](https://github-readme-stats.vercel.app/api?username=jvmcode&show_icons=true&theme=onedark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvmcode&layout=donut)
 
