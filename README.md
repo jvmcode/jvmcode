@@ -15,5 +15,5 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-7A2F8E.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-
+![NetBeans](https://img.shields.io/badge/NetBeans-2382C2.svg?style=for-the-badge&logo=apache-netbeans&logoColor=white)
 
